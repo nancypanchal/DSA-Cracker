@@ -1,29 +1,15 @@
+import java.util.ArrayList;
+import java.util.Collections;
 class Solution {
     public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        if (n == 0) return;
-        k = k % n; 
-        reverse(nums, 0, n - 1); 
-        reverse(nums, 0, k- 1); 
-        reverse(nums, k, n - 1); 
-    }
-    public  void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
+        ArrayList<Integer>list=new ArrayList<>();
+        for(int num:nums){
+            list.add(num);
         }
-    }
-    public void print(int[]nums){
-        System.out.print("[");
-        for(int i=0;i<nums.length-1;i++){
-        System.out.print(nums[i]);
-        if(i<nums.length-1){
-          System.out.print(",");  
+        Collections.rotate(list,k);
+        for(int i=0;i<nums.length;i++){
+            nums[i]=list.get(i);
         }
-        }
-        System.out.print("]");
+        System.out.println(nums);
     }
 }
