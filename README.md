@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nancypanchal/DSA-Cracker/tree/main/0001-two-sum/) | Easy |
 | [0189-rotate-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/nancypanchal/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +27,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
 <!---LeetCode Topics End-->
