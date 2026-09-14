@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/nancypanchal/DSA-Cracker/tree/main/0001-two-sum/) | Easy |
 | [0189-rotate-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
