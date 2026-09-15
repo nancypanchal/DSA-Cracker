@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nancypanchal/DSA-Cracker/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/nancypanchal/DSA-Cracker/tree/main/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/nancypanchal/DSA-Cracker/tree/main/0704-binary-search/) | Easy |
@@ -36,6 +37,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/nancypanchal/DSA-Cracker/tree/main/0035-search-insert-position/) | Easy |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/nancypanchal/DSA-Cracker/tree/main/0704-binary-search/) | Easy |
 ## Greedy
