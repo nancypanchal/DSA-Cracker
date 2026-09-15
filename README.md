@@ -34,6 +34,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/nancypanchal/DSA-Cracker/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nancypanchal/DSA-Cracker/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Binary Search
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nancypanchal/DSA-Cracker/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nancypanchal/DSA-Cracker/tree/main/0069-sqrtx/) | Easy |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/nancypanchal/DSA-Cracker/tree/main/0704-binary-search/) | Easy |
 ## Greedy
@@ -88,4 +90,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0912-sort-an-array/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/nancypanchal/DSA-Cracker/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
