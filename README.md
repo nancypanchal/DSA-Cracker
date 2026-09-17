@@ -26,11 +26,13 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/nancypanchal/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/nancypanchal/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/nancypanchal/DSA-Cracker/tree/main/0344-reverse-string/) | Easy |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0611-valid-triangle-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/nancypanchal/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/nancypanchal/DSA-Cracker/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
