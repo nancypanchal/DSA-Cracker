@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/nancypanchal/DSA-Cracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/nancypanchal/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/nancypanchal/DSA-Cracker/tree/main/0344-reverse-string/) | Easy |
 ## Math
@@ -102,4 +103,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nancypanchal/DSA-Cracker/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/nancypanchal/DSA-Cracker/tree/main/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nancypanchal/DSA-Cracker/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nancypanchal/DSA-Cracker/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
