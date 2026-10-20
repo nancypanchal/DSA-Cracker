@@ -7,6 +7,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nancypanchal/DSA-Cracker/tree/master/0001-two-sum) |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 | [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -16,4 +17,20 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
