@@ -7,6 +7,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nancypanchal/DSA-Cracker/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nancypanchal/DSA-Cracker/tree/master/0014-longest-common-prefix) |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nancypanchal/DSA-Cracker/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
@@ -39,4 +40,12 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/nancypanchal/DSA-Cracker/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nancypanchal/DSA-Cracker/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nancypanchal/DSA-Cracker/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
