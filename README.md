@@ -18,6 +18,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nancypanchal/DSA-Cracker/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nancypanchal/DSA-Cracker/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/nancypanchal/DSA-Cracker/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/nancypanchal/DSA-Cracker/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
