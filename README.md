@@ -13,6 +13,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 | [0053-maximum-subarray](https://github.com/nancypanchal/DSA-Cracker/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nancypanchal/DSA-Cracker/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancypanchal/DSA-Cracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/nancypanchal/DSA-Cracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nancypanchal/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nancypanchal/DSA-Cracker/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nancypanchal/DSA-Cracker/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nancypanchal/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nancypanchal/DSA-Cracker/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -37,6 +39,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nancypanchal/DSA-Cracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -74,5 +77,6 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nancypanchal/DSA-Cracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nancypanchal/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
