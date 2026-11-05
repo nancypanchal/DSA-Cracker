@@ -12,6 +12,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 | [0027-remove-element](https://github.com/nancypanchal/DSA-Cracker/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/nancypanchal/DSA-Cracker/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nancypanchal/DSA-Cracker/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nancypanchal/DSA-Cracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nancypanchal/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nancypanchal/DSA-Cracker/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -67,6 +68,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nancypanchal/DSA-Cracker/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nancypanchal/DSA-Cracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
 | ------- |
