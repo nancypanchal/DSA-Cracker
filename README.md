@@ -15,6 +15,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancypanchal/DSA-Cracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nancypanchal/DSA-Cracker/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancypanchal/DSA-Cracker/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/nancypanchal/DSA-Cracker/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nancypanchal/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nancypanchal/DSA-Cracker/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -36,6 +37,7 @@ A curated collection of Data Structures and Algorithms solutions in Java, coveri
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancypanchal/DSA-Cracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nancypanchal/DSA-Cracker/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/nancypanchal/DSA-Cracker/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/nancypanchal/DSA-Cracker/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
